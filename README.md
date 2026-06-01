@@ -251,10 +251,10 @@ The findings indicate that low-fat products, fruits and vegetables, medium-sized
 ## 📁 Project Structure
 
 
-- Dataset: Raw BlinkIT grocery dataset  
-- SQL: Data cleaning and analysis scripts  
+- Dataset: Raw BlinkIT grocery dataset  (.csv)
+- SQL: Data cleaning and analysis scripts  (.sql)
 - Power BI: Dashboard file (.pbix)  
-- Images: Dashboard screenshots
+- Images: Dashboard screenshots (.jpeg)
 
 ---
 
