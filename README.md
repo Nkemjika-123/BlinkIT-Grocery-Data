@@ -83,7 +83,7 @@ The following data cleaning activities were performed using SQL Server:
 > Add your dashboard screenshot below.
 
 ```markdown
-![BlinkIT Dashboard](images/BlinkITGroceryData.jpg)
+![BlinkIT Dashboard](BlinkITGroceryData.jpg)
 ```
 
 ---
